@@ -1,0 +1,141 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  background-color: #e5e5e5;
+  padding: 40px;
+}
+
+.wraper {
+  display: flex;
+  flex-direction: row-reverse;
+  background: #ffffff;
+  width: 1200px;
+  margin: 0 auto;
+}
+
+/* about me */
+.my-profession {
+  font-style: normal;
+  font-size: 14px;
+  font-weight: 700px;
+  line-height: 17px;
+  color: #000000;
+  margin: 0 0 18px 0;
+}
+
+.my-name {
+  font-style: normal;
+  font-size: 45px;
+  font-weight: 700px;
+  line-height: 55px;
+  color: #000000;
+  margin: 0 0 28px 0;
+}
+.my-description {
+  font-style: normal;
+  font-size: 14px;
+  font-weight: 400px;
+  line-height: 24px;
+  color: #595959;
+  width: 525px;
+}
+.about-me-comtainer {
+  margin-bottom: 64px;
+}
+
+/* main content */
+
+.main-content-title {
+  font-style: normal;
+  font-size: 22px;
+  line-height: 27px;
+  color: #000000;
+  margin: 0 0 8px 0;
+
+}
+.project-item {
+  font-style: normal;
+  font-weight: 700px;
+  font-size: 14px;
+  line-height: 24px;
+  color: #000000;
+  
+}
+.project-list {
+padding: 0 0 0 14px;
+margin: 0;
+}
+.project-container {
+  margin-bottom: 48px;
+}
+.Ed {
+  margin-top: 48px;
+  line-height: 24px;
+}
+.main-content {
+  padding: 88px;
+}
+.blue {
+  color: #6D9BF5;
+}
+.project-title-descr {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+}
+
+/* sidebar */
+
+.sidebar {
+  width: 370px;
+  background-color: #e0ebfe;
+}
+
+.my-photo {
+  margin-top: 40px;
+}
+
+.contact-container,
+.tech-container,
+.soft-container {
+  margin: 40px 0 0 40px;
+}
+
+.sidebar-title {
+  font-style: Bold;
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 27px;
+  margin-bottom: 8px;
+  color: ##161d2a;
+}
+.contact-type {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 24px;
+  margin-right: 8px;
+  color: #161d2a;
+}
+.contact-item {
+  margin: 0;
+}
+.contact-number {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #161d2a;
+}
+.contact-email {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #2979ff;
+}
+.skills-list {
+  margin: 0;
+  padding: 0 0 0 20px;
+}
